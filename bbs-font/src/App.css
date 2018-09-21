@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.title-text{
+  text-align: left;
+  color: white;
+  font-size: 50px;
+  float: left;
+}
+
+.topicList{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.topicList .topic{
+  width: 80%;
+  margin-left: 10%;
+  border-bottom: solid thin gray;
+  cursor:pointer;
+}
+
+.topicList .topicTitle{
+  font-size: 30px;
+}
+.topicList .topicListContent{
+  text-align: left;
+  width: 60%;
+  margin-left: 20%;
+  display: -webkit-box;
+  /*! autoprefixer: off */
+  -webkit-box-orient: vertical !important;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+

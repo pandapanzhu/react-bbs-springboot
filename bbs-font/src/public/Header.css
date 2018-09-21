@@ -1,0 +1,51 @@
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  height: 80px;
+  float: left;
+  cursor: pointer;
+}
+
+.App-header h2 {
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-header Button{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.rightButton{
+  float: right;
+}
+
+.plateTitle{
+  float: left;
+  margin: 10px 20px;
+  margin-left: 40%;
+  font-size: 18px;
+}
+.plateTitle  .plate{
+  width: 50px;
+  height: 30px;
+  margin-left: 30px;
+  display: block;/*转化为块级标签*/
+  text-align: center;
+}
+.plateTitle  span{
+  float: left;
+}

@@ -1,0 +1,22 @@
+.reply{
+    margin-top:100px;
+    width:100%;
+
+}
+
+.replyAuthor {
+    color:#9F79EE;
+    float: left;
+}
+.replyDate {
+    color:#9F79EE;
+    float: right;
+}
+.replyTitle{
+    float: left;
+}
+.replyTop{
+    width: 100%;
+    height: 55px;
+    border-bottom:solid 1px;
+}

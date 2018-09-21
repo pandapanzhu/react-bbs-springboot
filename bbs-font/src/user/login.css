@@ -1,0 +1,30 @@
+.login{
+    margin-left: 40%;
+    width: 20%;
+    margin-top: 60px;
+}
+.other {
+    text-align: left;
+    margin-top: 24px;
+    line-height: 22px;
+}
+.register {
+    float: right;
+}
+.icon {
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.2);
+    margin-left: 16px;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+Checkbox{
+    float: left
+}
+.login-form-forgot{
+    float: right
+}
+.login-form-button{
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+.TopicDetail{
+    margin-top:60px; 
+    margin-left: 30%;
+    width: 40%;
+}
+
+h1 ,.subTitle{
+    text-align: center;
+}
+
+.content{
+    font-size: 20px;
+    word-break: break-word;
+    white-space: pre-wrap;
+}
