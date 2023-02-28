@@ -28,7 +28,8 @@ class Login extends React.Component {
              if(null != data && data.msg==="success"){//已登录
                 const html = "欢迎您，"+data.data.username;
                 alert(html);
-             }else{//没登录
+             }else{
+                 //没登录
              }
              
 
